@@ -35,4 +35,4 @@ The purpose of this project is to code a small data exchange program using *UNIX
 ## Compilation
 
 1. Clone repo via `git clone https://github.com/ayoub0x1/minitalk.git`.
-2. Compile files into `server` & `client` executables via `make -C 42-minitalk`.
+2. Compile files into `server` & `client` executables via `make`.
